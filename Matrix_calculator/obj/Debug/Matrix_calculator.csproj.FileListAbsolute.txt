@@ -1,0 +1,9 @@
+F:\ready\groupdyna\Matrix_calculator\bin\Debug\Matrix_calculator.exe.config
+F:\ready\groupdyna\Matrix_calculator\bin\Debug\Matrix_calculator.exe
+F:\ready\groupdyna\Matrix_calculator\bin\Debug\Matrix_calculator.pdb
+F:\ready\groupdyna\Matrix_calculator\obj\Debug\Matrix_calculator.csprojAssemblyReference.cache
+F:\ready\groupdyna\Matrix_calculator\obj\Debug\Matrix_calculator.Form1.resources
+F:\ready\groupdyna\Matrix_calculator\obj\Debug\Matrix_calculator.Properties.Resources.resources
+F:\ready\groupdyna\Matrix_calculator\obj\Debug\Matrix_calculator.csproj.GenerateResource.cache
+F:\ready\groupdyna\Matrix_calculator\obj\Debug\Matrix_calculator.exe
+F:\ready\groupdyna\Matrix_calculator\obj\Debug\Matrix_calculator.pdb
