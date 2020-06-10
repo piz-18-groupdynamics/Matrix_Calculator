@@ -1,0 +1,9 @@
+C:\Users\Pasha\source\repos\Matrix_multiply\Matrix_multiply\bin\Debug\Matrix_multiply.exe.config
+C:\Users\Pasha\source\repos\Matrix_multiply\Matrix_multiply\bin\Debug\Matrix_multiply.exe
+C:\Users\Pasha\source\repos\Matrix_multiply\Matrix_multiply\bin\Debug\Matrix_multiply.pdb
+C:\Users\Pasha\source\repos\Matrix_multiply\Matrix_multiply\obj\Debug\Matrix_multiply.csprojAssemblyReference.cache
+C:\Users\Pasha\source\repos\Matrix_multiply\Matrix_multiply\obj\Debug\Matrix_multiply.Form1.resources
+C:\Users\Pasha\source\repos\Matrix_multiply\Matrix_multiply\obj\Debug\Matrix_multiply.Properties.Resources.resources
+C:\Users\Pasha\source\repos\Matrix_multiply\Matrix_multiply\obj\Debug\Matrix_multiply.csproj.GenerateResource.cache
+C:\Users\Pasha\source\repos\Matrix_multiply\Matrix_multiply\obj\Debug\Matrix_multiply.exe
+C:\Users\Pasha\source\repos\Matrix_multiply\Matrix_multiply\obj\Debug\Matrix_multiply.pdb
